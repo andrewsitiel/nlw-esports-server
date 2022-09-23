@@ -16,15 +16,15 @@ Back-End of an application for connect players for multiplayer games developed w
 
 The games route supports *get* and *post* methods:
 
-- ```get```: /games
-- ```get```: /games/:id/ads
-- ```post```: /games/:id/ads
+- ```get```: */games*
+- ```get```: */games/:id/ads*
+- ```post```: */games/:id/ads*
 
 ### /ads
 
 The ads routes supports *get* method:
 
-- ```get```: /ads/:id/discord
+- ```get```: */ads/:id/discord*
 
 ## How to use
 
