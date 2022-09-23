@@ -1,5 +1,3 @@
-# nlw-esports-server
-Back-end of NLW ESports project.
 # NLW ESports server
 
 Back-End of an application for connect players for multiplayer games developed with Express, ORM Prisma and SQLite as SGBD.
